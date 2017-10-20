@@ -8,7 +8,7 @@ Created by NAVER. (http://www.naver.com)
 
 - Light(200)
 - Regular(400)
-- Bold(700)
+- Bold(600)
 - ExtraBold(800)
 
 ## Format
